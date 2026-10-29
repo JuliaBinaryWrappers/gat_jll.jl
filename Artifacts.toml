@@ -1,151 +1,160 @@
 [[gat]]
 arch = "aarch64"
-git-tree-sha1 = "6e1de2636fa6b1059d28e6e5dc2fc1b459e4494b"
+git-tree-sha1 = "cc4885a2e64e862cec62ed3bd6263010ccc84147"
 os = "macos"
 
     [[gat.download]]
-    sha256 = "b46462082566c86f35068ac1a9a22847be5d8d4df52f1bdd77d0eb91bee49957"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "b34ed91014999db737bd12a8875e46b7c687f1ea8ebfcd9b222978871255ca5c"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.aarch64-apple-darwin.tar.gz"
 [[gat]]
 arch = "aarch64"
-git-tree-sha1 = "44320c12316bb524d87aceb008273919d125ea6a"
+git-tree-sha1 = "bdc79d2b5c1e27e18467eb868fc3656a06f5c597"
 libc = "glibc"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "01673487a3e5313545296b4694739e081ea9b15d466a1521b574b9c474a796a3"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "6562de9edaa5f8d73a98093a0ddddb8ab91f6ac80aa6b3bc7e0f3ea48b99f915"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.aarch64-linux-gnu.tar.gz"
 [[gat]]
 arch = "aarch64"
-git-tree-sha1 = "44320c12316bb524d87aceb008273919d125ea6a"
+git-tree-sha1 = "bdc79d2b5c1e27e18467eb868fc3656a06f5c597"
 libc = "musl"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "01673487a3e5313545296b4694739e081ea9b15d466a1521b574b9c474a796a3"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.aarch64-linux-musl.tar.gz"
+    sha256 = "6562de9edaa5f8d73a98093a0ddddb8ab91f6ac80aa6b3bc7e0f3ea48b99f915"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.aarch64-linux-musl.tar.gz"
 [[gat]]
 arch = "aarch64"
-git-tree-sha1 = "b4a9716be9e0d7c8858a2a3fbd167abbea05517e"
+git-tree-sha1 = "9d8452014a0d7505ecf375ba3e7c777b696bf522"
 os = "freebsd"
 
     [[gat.download]]
-    sha256 = "1ec0aa6c2ccaece8f274d3d10ce8f5b3b2668beaf53d510e3752d0632525cca1"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "631a3f293e574681a21f2473b55a2c057f5d0460e9b3958df574751677d21417"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.aarch64-unknown-freebsd.tar.gz"
 [[gat]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "92084e3f93e66ee022599fcdf2a2b7b6fadbc8ee"
+git-tree-sha1 = "693de75a082d7fbe3251c1fc451343f3338a2b45"
 libc = "glibc"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "3febde8b147c7f802f055ec87fa9aefc64f75960988bc6a08759cbeb8505cb4f"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "c6d81002d925e016cf97bcdbd5ecb51d443229be97996c6225a640f9590bde07"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.armv6l-linux-gnueabihf.tar.gz"
 [[gat]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "92084e3f93e66ee022599fcdf2a2b7b6fadbc8ee"
+git-tree-sha1 = "693de75a082d7fbe3251c1fc451343f3338a2b45"
 libc = "musl"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "3febde8b147c7f802f055ec87fa9aefc64f75960988bc6a08759cbeb8505cb4f"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c6d81002d925e016cf97bcdbd5ecb51d443229be97996c6225a640f9590bde07"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.armv6l-linux-musleabihf.tar.gz"
 [[gat]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0b2d3e141ed649da76116c43a3c9704b99417d72"
+git-tree-sha1 = "a79955688693951a290cb09f7f72c478ae692429"
 libc = "glibc"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "d0e13208dce7627ea68da989bc4a34933ef8a2d722b135c40437956a6d9ca95e"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "28a51e9d4ed9d146699021edca4b13fe91cd2b049802223467d61cb286b779d8"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.armv7l-linux-gnueabihf.tar.gz"
 [[gat]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0b2d3e141ed649da76116c43a3c9704b99417d72"
+git-tree-sha1 = "a79955688693951a290cb09f7f72c478ae692429"
 libc = "musl"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "d0e13208dce7627ea68da989bc4a34933ef8a2d722b135c40437956a6d9ca95e"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "28a51e9d4ed9d146699021edca4b13fe91cd2b049802223467d61cb286b779d8"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.armv7l-linux-musleabihf.tar.gz"
 [[gat]]
 arch = "i686"
-git-tree-sha1 = "e3adf0940bf40f101ef44e1b49b0e917953efbee"
+git-tree-sha1 = "952f1af15a76b32c080fb1741c06084482b16802"
 libc = "glibc"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "74a775a977b2e49fa599ea09105f23ab30d00c35545f601b16ba6272904a1ad8"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.i686-linux-gnu.tar.gz"
+    sha256 = "b721c284d2f3feac891115576f1b8d27636bce0100f413e485bbbedab0987a99"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.i686-linux-gnu.tar.gz"
 [[gat]]
 arch = "i686"
-git-tree-sha1 = "e3adf0940bf40f101ef44e1b49b0e917953efbee"
+git-tree-sha1 = "952f1af15a76b32c080fb1741c06084482b16802"
 libc = "musl"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "74a775a977b2e49fa599ea09105f23ab30d00c35545f601b16ba6272904a1ad8"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.i686-linux-musl.tar.gz"
+    sha256 = "b721c284d2f3feac891115576f1b8d27636bce0100f413e485bbbedab0987a99"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.i686-linux-musl.tar.gz"
 [[gat]]
 arch = "i686"
-git-tree-sha1 = "9e999069fcb23f67fab56844a91c98a0f317c3c4"
+git-tree-sha1 = "81b9352f9bfec9ed19e45d257e2f4c4bf9e590e5"
 os = "windows"
 
     [[gat.download]]
-    sha256 = "83507852559c76a15159b2062951c90a7970f253fa760389da12aafd06fbbf88"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.i686-w64-mingw32.tar.gz"
+    sha256 = "89756bfe25d45f6c4e7f0c417894a12e40e9d8343efb8526277c0b8e8bf64599"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.i686-w64-mingw32.tar.gz"
 [[gat]]
 arch = "powerpc64le"
-git-tree-sha1 = "c7518e673e92ac0ae32c10e6ce328ab78acd2276"
+git-tree-sha1 = "f64d7e0b5ab6a65a5f5b81da9c9505fd7023a538"
 libc = "glibc"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "8de95c1435d6f127a278dd895a4d6d4480120ac0ac7f1c668c34d3f1e5656eaf"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "76d20bebd3cae544e014b38058e1b0f5a2ef14c8f5a6478f77102cac7d94c384"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.powerpc64le-linux-gnu.tar.gz"
+[[gat]]
+arch = "riscv64"
+git-tree-sha1 = "60115100077ae45cbf61199019529c1b99c15cbe"
+libc = "glibc"
+os = "linux"
+
+    [[gat.download]]
+    sha256 = "725b83ac9d3cd2f4fff5eae48138507ce865de5426dde3bd065146d140e498d7"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.riscv64-linux-gnu.tar.gz"
 [[gat]]
 arch = "x86_64"
-git-tree-sha1 = "a11bb9978c0e5580ddf87cd5a9380ff1291bde9a"
+git-tree-sha1 = "2bbef4855d7e8b4b16d58e356f12b9f30ac686af"
 os = "macos"
 
     [[gat.download]]
-    sha256 = "656a100ca566712c60db62ce74f748c8608d98c7b778d903db058ec7371f4d59"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "b226b07a9c280fdbf523e2176e02f046ac9515e47b540409f1603f900040725f"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.x86_64-apple-darwin.tar.gz"
 [[gat]]
 arch = "x86_64"
-git-tree-sha1 = "a17b0e50957a9c90c62110700346ad3b57a900b9"
+git-tree-sha1 = "1a8f2d18ca41f8acd6bbfbffcdd9574fd9a2929a"
 libc = "glibc"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "126e985e06b5ce0cc829d991ef7bfe9bf63d7ed6d3c7ce34300dd76f41740cc6"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "fa05fce874dd20cac257a1b6a5c1f6696bc0913833eb40b4db1f23fabd57fbc8"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.x86_64-linux-gnu.tar.gz"
 [[gat]]
 arch = "x86_64"
-git-tree-sha1 = "967cd1681027f2cee8c335ac5c7e845940ce537d"
+git-tree-sha1 = "a1eedae817334d2433dba00367736f3c3942fb6b"
 libc = "musl"
 os = "linux"
 
     [[gat.download]]
-    sha256 = "57d4f961906f0dcc2b95313c8dbc3a6547ae2b80868bac63a659f5335d2f0e9a"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.x86_64-linux-musl.tar.gz"
+    sha256 = "0f487db41e93eeeea7c086fa53d14aa3c8b0344c73b3acc82c30d9e718a6c624"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.x86_64-linux-musl.tar.gz"
 [[gat]]
 arch = "x86_64"
-git-tree-sha1 = "1a311e1f4709e973557e6880a481c5c3d2c7eaac"
+git-tree-sha1 = "3b97abd624464ce6a7a1946296ab1f9a5ddc6716"
 os = "freebsd"
 
     [[gat.download]]
-    sha256 = "8b1cc526c17da17d133251b151c99e171fc180470a76a25e0f855d2d7acf051f"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2c28f3f561e891b620e4dc97a2cc8cf0346ed1779dffad7a59bc1b8b1011e95a"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.x86_64-unknown-freebsd.tar.gz"
 [[gat]]
 arch = "x86_64"
-git-tree-sha1 = "c8ad3b2a25d5df52161aebb6a592cd4162e4346e"
+git-tree-sha1 = "69db7bcb2038a41a11ae57f372a7965c4b62d73b"
 os = "windows"
 
     [[gat.download]]
-    sha256 = "aa05da646047f962bb64adde26a276f49a9624b97bcbf52144303b27749eff25"
-    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.19.1+0/gat.v0.19.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "90ca6f04f891524bd094514bb0199bf092930303e3434beaea92ad637e12b3cc"
+    url = "https://github.com/JuliaBinaryWrappers/gat_jll.jl/releases/download/gat-v0.31.0+0/gat.v0.31.0.x86_64-w64-mingw32.tar.gz"
